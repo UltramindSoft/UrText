@@ -1,7 +1,7 @@
 # UrText    (Urdu Dataset comprised of outdoor images)
 
 # OutDoorUrduDataset
-<b>Snapped ->> Urdu Dataset for Outdoor Text Detection and Recognition</b>
+<b>Snapped ->> Urdu Dataset for Outdoor Text Detection </b>
 
 <p>
   <img src="SampleImages/_UrTextV1_IMG_5523.jpg" width=303>
