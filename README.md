@@ -12,7 +12,7 @@
   <img src="SampleImages/_UrTextV1_IMG_4126.jpg" width=200>
 
 </p>
-Initially in our research-paper-experiments, a new Urdu text detection dataset " UrText ", consisting of 2K+ snapped images are developed
+Initially in our research-paper-experiments, a new Urdu text detection dataset " UrText ", consisting of 2K+ snapped images are developed. <br>{ Earlier it contained 1K+ images but later extended }
 .<br>
 .<br>
 
