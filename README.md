@@ -1,4 +1,4 @@
-# UrText
+# UrText    (Urdu Dataset comprised of outdoor images)
 
 # OutDoorUrduDataset
 <b>Snapped ->> Urdu Dataset for Outdoor Text Detection and Recognition</b>
@@ -17,7 +17,7 @@ Initially in our research-paper-experiments, a new Urdu text detection dataset "
 .<br>
 
 ## Snapped Outdoor Urdu Dataset
---->>> The <b>UrTExt dataset</b> consisting of more than 2070 images (also corresponding 2070 annotations)  is <b>most similar to the dataset</b> we used in our exmperiments/research with minor differences. Images are given in zipped format and the <b>annotation </b> can be obtained after 30March2021, by <b>emailing the address below</b>. 
+--->>> The <b>UrText dataset</b> consisting of more than 2070 images (also corresponding 2070 annotations)  is <b>most similar to the dataset</b> we used in our exmperiments/research with minor differences. Images are given in zipped format and the <b>annotation </b> can be obtained after 30March2021, by <b>emailing the address below</b>. 
 .<br>
 .<br>
 <br>
