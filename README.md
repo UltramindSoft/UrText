@@ -17,7 +17,7 @@ Initially in our research-paper-experiments, a new Urdu text detection dataset "
 .<br>
 
 ## Snapped Outdoor Urdu Dataset
---->>> The <b>Given dataset</b> here is <b>most similar to dataset</b> we used in our exmperiments/research with minor differences. 
+--->>> The <b>Given dataset</b> here is <b>most similar to dataset</b> we used in our exmperiments/research with minor differences. Images are given in zipped format and the <b>annotation </b> can be obtained after 30March2021, by <b>emailing the address below</b>. 
 .<br>
 .<br>
 <br>
