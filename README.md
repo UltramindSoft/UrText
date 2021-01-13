@@ -4,8 +4,8 @@
 <b>Snapped ->> Urdu Dataset for Outdoor Text Detection and Recognition</b>
 
 <p>
-  <img src="SampleImages/_UrTextV1_IMG_5523.jpg" width=300>
- <img src="SampleImages/_UrTextV1_IMG_5827.jpg" width=300>
+  <img src="SampleImages/_UrTextV1_IMG_5523.jpg" width=310>
+ <img src="SampleImages/_UrTextV1_IMG_5827.jpg" width=310>
   <br>
  <img src="SampleImages/_UrTextV1_IMG_2590.jpg" width=200>
 <img src="SampleImages/_UrTextV1_IMG_2836.jpg" width=200>
