@@ -15,11 +15,10 @@
 Initially in our research-paper-experiments, a new Urdu text detection dataset " UrText ", consisting of 2K+ snapped images are developed. <br>{ Earlier it contained 1K+ images with rectangular and textual annotations  in our earlier paper, but later extended to detection only (' in our upcoming paper....')}
 .<br>
 .<br>
-!<br>
-!<br>
 
 Syed Yasser Arafat, and Muhmmad Javed Iqbal. "Urdu-Text Detection and Recognition in Natural Scene Images Using Deep Learning." IEEE Access (2020).
-
+!<br>
+!<br>
 !<br>
 !<br>
 !<br>
