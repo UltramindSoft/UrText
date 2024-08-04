@@ -31,7 +31,7 @@ Syed Yasser Arafat, and Muhmmad Javed Iqbal. "Urdu-Text Detection and Recognitio
 !<br>
 !<br>
 # UrText Vs Urdu-Text
--> This repository is <b>UrText</b> while Urdu-Text dataset can be obtained by emailing authors of paper: https://ieeexplore.ieee.org/document/8978091
+-> This repository is <b>UrText</b> while "Urdu-Text dataset" by asghar ali Chandio et. al., can be obtained by emailing authors of paper: https://ieeexplore.ieee.org/document/8978091
 <div>
   <p> for any queries: <b > [Syed Yasser Arafat]: <mailto:syed.yasser.arafat@gmail.com> </b> 
 </p>
