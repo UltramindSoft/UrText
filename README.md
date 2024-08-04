@@ -17,23 +17,20 @@ Initially in our research-paper-experiments, a new Urdu text detection dataset "
 .<br>
 !<br>
 !<br>
-Please cite our dataset as!!
+
 <br>
-<b>
+<br>
   <br>
 !<br>
 !<br>
 !<br>
 Syed Yasser Arafat, and Muhmmad Javed Iqbal. "Urdu-Text Detection and Recognition in Natural Scene Images Using Deep Learning." IEEE Access (2020).
 ## Snapped Outdoor Urdu Dataset
---->>> The <b>UrText dataset</b> consisting of more than 2070 images (also corresponding 2070 annotations)  is <b>most similar to the dataset</b> we used in our exmperiments/research with minor differences. Images are given in zipped format and  <b>annotation </b> can be found in annotation folder (contains rectangluar coordinates for detection) </b>. 
-.<br>
-.<br>
-
-
 </b>
 <br>
-<br>
+<br>--->>> The <b>UrText dataset</b> consisting of more than 2070 images (also corresponding 2070 annotations)  is <b>most similar to the dataset</b> we used in our exmperiments/research with minor differences. Images are given in zipped format and  <b>annotation </b> can be found in annotation folder (contains rectangluar coordinates for detection) </b>. 
+.<br>
+.<br>
 <br>
 <br>
 <div>
