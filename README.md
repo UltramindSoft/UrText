@@ -7,8 +7,7 @@
 <br>--->>> The <b>UrText dataset</b> consisting of more than 2070 images (also corresponding 2070 annotations)  is <b>most similar to the dataset</b> we used in our exmperiments/research with minor differences. Images are given in zipped format and  <b>annotation </b> can be found in annotation folder (contains rectangluar coordinates for detection) </b>. 
 .<br>
 .<br>
-<br>
-<br>
+
 <p>
   <img src="SampleImages/_UrTextV1_IMG_5523.jpg" width=303>
  <img src="SampleImages/_UrTextV1_IMG_5827.jpg" width=303>
@@ -17,6 +16,8 @@
 <img src="SampleImages/_UrTextV1_IMG_2836.jpg" width=200>
   <img src="SampleImages/_UrTextV1_IMG_4126.jpg" width=200>
 </p>
+<br>
+<br>
 <br>
 # Earlier-OutDoorUrduDataset
 <b>Snapped ->> Urdu Dataset for Outdoor Text Detection </b><br>
