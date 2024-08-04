@@ -19,7 +19,7 @@
 </p>
 
 # Earlier-OutDoorUrduDataset
-<b>Snapped ->> Urdu Dataset for Outdoor Text Detection </b>
+<b>Snapped ->> Urdu Dataset for Outdoor Text Detection </b><br>
 Initially in our research-paper-experiments, a new Urdu text detection dataset " UrText ", consisting of 2K+ snapped images are developed. <br>{ Earlier it contained 1K+ images with rectangular and textual annotations  in our earlier paper, but later extended to detection only (' in our upcoming paper....')}
 .<br>
 .<br>
