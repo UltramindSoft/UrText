@@ -18,13 +18,11 @@ Initially in our research-paper-experiments, a new Urdu text detection dataset "
 !<br>
 !<br>
 
-<br>
-<br>
-  <br>
-!<br>
-!<br>
-!<br>
 Syed Yasser Arafat, and Muhmmad Javed Iqbal. "Urdu-Text Detection and Recognition in Natural Scene Images Using Deep Learning." IEEE Access (2020).
+
+!<br>
+!<br>
+!<br>
 ## Snapped Outdoor Urdu Dataset
 </b>
 <br>
